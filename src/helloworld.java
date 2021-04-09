@@ -6,5 +6,6 @@ public class helloworld {
         System.out.println("尊贵1.0.2");
         System.out.println("VCS->Import into Version Control->Create Git Respon->Add and push");
         System.out.println("VCS->Import into Version Control->Share Proj on git");
+        System.out.println("介四里没有体验过的传新版本");
     }
 }
