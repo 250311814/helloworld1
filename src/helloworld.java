@@ -4,5 +4,7 @@ public class helloworld {
         System.out.println("隐约雷鸣,阴霾天空,但盼风雨来,能留你在此.");
         System.out.println("你写的啥?爬!");
         System.out.println("尊贵1.0.2");
+        System.out.println("VCS->Import into Version Control->Create Git Respon->Add and push");
+        System.out.println("VCS->Import into Version Control->Share Proj on git");
     }
 }
